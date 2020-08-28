@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.start-button{
+  block-size: 50px;
+  background-origin: padding-box;
+  background-size: cover;
+  background-color:green;
+  color:white;
+}
